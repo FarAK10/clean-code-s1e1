@@ -21,9 +21,11 @@
 }
 
 @media (max-width:768px) {
+
   .top-container {
     text-align: center;
   }
+  
 }
 
 .main-container {
@@ -31,6 +33,7 @@
   width: 500px;
   margin: 0 auto 0;
 }
+
 .add-task,
 .task,
 .task-name {
