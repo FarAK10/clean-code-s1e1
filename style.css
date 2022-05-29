@@ -120,7 +120,7 @@ button {
 }
 
 /* Task list */
-.task-wrapper,
+.list,
 .edit-mode {
   overflow: hidden;
   padding: 20px 0;

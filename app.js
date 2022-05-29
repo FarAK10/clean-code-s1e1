@@ -53,7 +53,7 @@ var createNewTaskElement = function (taskString) {
 
   //and appending.
   listItem.appendChild(checkBox);
-  listItem.classList.add('task-wrapper')
+  listItem.classList.add('list')
   listItem.appendChild(label);
   listItem.appendChild(editInput);
   listItem.appendChild(editButton);
